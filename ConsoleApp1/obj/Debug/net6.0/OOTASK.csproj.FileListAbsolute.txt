@@ -1,0 +1,15 @@
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\bin\Debug\net6.0\OOTASK.exe
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\bin\Debug\net6.0\OOTASK.deps.json
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\bin\Debug\net6.0\OOTASK.runtimeconfig.json
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\bin\Debug\net6.0\OOTASK.dll
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\bin\Debug\net6.0\OOTASK.pdb
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.csproj.AssemblyReference.cache
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.AssemblyInfoInputs.cache
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.AssemblyInfo.cs
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.csproj.CoreCompileInputs.cache
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.dll
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\refint\OOTASK.dll
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.pdb
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\OOTASK.genruntimeconfig.cache
+C:\Users\dhanr\RiderProjects\ConsoleApp6\OOTASK\obj\Debug\net6.0\ref\OOTASK.dll

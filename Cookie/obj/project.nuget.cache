@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6J619mSe2BSSEOHu9TkqWP1kmnhHolpOzrfW2weHKZfd18vM488+sJ2gSh7Zg1gx9LggcyoTdkCejr/kvJC6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhanr\\RiderProjects\\ConsoleApp6\\Cookie\\Cookie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhanr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
